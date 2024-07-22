@@ -1,8 +1,8 @@
 {
-    "WordJA": "立てる",
-    "Hiragana": "たてる",
-    "PartOfSpeech": "Ichidan verb, Transitive verb",
-    "ExampleJA": "バースデーケーキにろうそくを立ててください",
-    "ExampleEN": "Please put some candles on the birthday cake.",
-    "MeaningEN": "to stand up; to put up; to set up; to erect; to raise"
+	"WordJA": "立てる",
+	"Kana": "たてる",
+	"PartOfSpeech": "Ichidan verb, Transitive verb",
+	"ExampleJA": "バースデーケーキにろうそくを立ててください",
+	"ExampleEN": "Please put some candles on the birthday cake.",
+	"MeaningEN": "to stand up; to put up; to set up; to erect; to raise"
 }

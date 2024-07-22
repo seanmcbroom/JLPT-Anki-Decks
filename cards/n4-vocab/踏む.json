@@ -1,8 +1,8 @@
 {
-    "WordJA": "踏む",
-    "Hiragana": "ふむ",
-    "PartOfSpeech": "Godan verb with 'mu' ending, Transitive verb",
-    "ExampleJA": "その男は私の足を踏んだのにわびることさえしなかった",
-    "ExampleEN": "The man did not so much as apologize for stepping on my foot.",
-    "MeaningEN": "to step on; to tread on; to trample on"
+	"WordJA": "踏む",
+	"Kana": "ふむ",
+	"PartOfSpeech": "Godan verb with 'mu' ending, Transitive verb",
+	"ExampleJA": "その男は私の足を踏んだのにわびることさえしなかった",
+	"ExampleEN": "The man did not so much as apologize for stepping on my foot.",
+	"MeaningEN": "to step on; to tread on; to trample on"
 }

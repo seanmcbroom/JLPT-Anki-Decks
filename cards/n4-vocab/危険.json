@@ -1,8 +1,8 @@
 {
-    "WordJA": "危険",
-    "Hiragana": "きけん",
-    "PartOfSpeech": "Noun, Na-adjective (keiyodoshi)",
-    "ExampleJA": "は危険に直面して彼の勇気を示した",
-    "ExampleEN": "Tom showed his courage in the face of danger.",
-    "MeaningEN": "danger; peril; hazard"
+	"WordJA": "危険",
+	"Kana": "きけん",
+	"PartOfSpeech": "Noun, Na-adjective (keiyodoshi)",
+	"ExampleJA": "は危険に直面して彼の勇気を示した",
+	"ExampleEN": "Tom showed his courage in the face of danger.",
+	"MeaningEN": "danger; peril; hazard"
 }

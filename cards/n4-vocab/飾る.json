@@ -1,8 +1,8 @@
 {
-    "WordJA": "飾る",
-    "Hiragana": "かざる",
-    "PartOfSpeech": "Godan verb with 'ru' ending, Transitive verb",
-    "ExampleJA": "私たち自身が部屋を飾ったのです",
-    "ExampleEN": "We decorated the room ourselves.",
-    "MeaningEN": "to decorate; to ornament; to adorn"
+	"WordJA": "飾る",
+	"Kana": "かざる",
+	"PartOfSpeech": "Godan verb with 'ru' ending, Transitive verb",
+	"ExampleJA": "私たち自身が部屋を飾ったのです",
+	"ExampleEN": "We decorated the room ourselves.",
+	"MeaningEN": "to decorate; to ornament; to adorn"
 }

@@ -1,8 +1,8 @@
 {
-    "WordJA": "楽しみ",
-    "Hiragana": "たのしみ",
-    "PartOfSpeech": "Noun, Na-adjective (keiyodoshi)",
-    "ExampleJA": "水泳が私の楽しみの１つです",
-    "ExampleEN": "Swimming is one thing I enjoy.",
-    "MeaningEN": "enjoyment; pleasure; amusement; delight; joy; fun; diversion; hobby"
+	"WordJA": "楽しみ",
+	"Kana": "たのしみ",
+	"PartOfSpeech": "Noun, Na-adjective (keiyodoshi)",
+	"ExampleJA": "水泳が私の楽しみの１つです",
+	"ExampleEN": "Swimming is one thing I enjoy.",
+	"MeaningEN": "enjoyment; pleasure; amusement; delight; joy; fun; diversion; hobby"
 }

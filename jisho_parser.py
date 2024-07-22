@@ -3,7 +3,7 @@ import requests
 
 def from_word(word):
     result = {
-        'hiragana': '',
+        'kana': '',
         'part_of_speech': '',
         'meaning': '',
         'examples': []
@@ -20,9 +20,9 @@ def from_word(word):
     if not main_result:
         return {'error': 'Word not found'}
     
-    # Get hiragana reading
-    hiragana = main_result.find("span", class_="furigana").text.strip()
-    result['hiragana'] = hiragana
+    # Get kana reading
+    kana = main_result.find("span", class_="furigana").text.strip()
+    result['kana'] = kana
     
     # Get part of speech and first meaning
     meanings_section = main_result.find("div", class_="concept_light-meanings")

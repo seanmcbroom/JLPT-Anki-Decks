@@ -17,7 +17,7 @@ my_model = genanki.Model(
     f'Japanese[{DECK_NAME}]',
     fields=[
         {'name': 'WordJA'},
-        {'name': 'Hiragana'},
+        {'name': 'Kana'},
         {'name': 'PartOfSpeech'},
         {'name': 'ExampleJA'},
         {'name': 'ExampleEN'},
@@ -42,7 +42,7 @@ my_model = genanki.Model(
                 {{/ExampleEN}}{{/ExampleJA}}
             ''',
             'afmt': '''
-                <p class="furigana">{{Hiragana}}</p>
+                <p class="furigana">{{Kana}}</p>
                 <p class="main-content">
                     {{WordJA}}
                 </p>
@@ -50,7 +50,7 @@ my_model = genanki.Model(
                 <br>
                 <p>meaning: {{MeaningEN}}</p>
                 <br>
-                <p class="grey" style="font-size: 15px;">Deck Version: {{Version}} ~ <a href='https://jisho.org/search/{{Hiragana}}'>jisho</a>, <a href="https://www.google.com/search?q='{{WordJA}}'">google</a></p>
+                <p class="grey" style="font-size: 15px;">Deck Version: {{Version}} ~ <a href='https://jisho.org/search/{{Kana}}'>jisho</a>, <a href="https://www.google.com/search?q='{{WordJA}}'">google</a></p>
             '''
         }
     ],
@@ -116,7 +116,7 @@ def add_cards_from_directory(directory):
                     model=my_model,
                     fields=[
                         data.get('WordJA', ''),
-                        data.get('Hiragana', ''),
+                        data.get('Kana', ''),
                         data.get('PartOfSpeech', ''),
                         data.get('ExampleJA', ''),
                         data.get('ExampleEN', ''),

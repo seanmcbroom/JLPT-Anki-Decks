@@ -1,8 +1,8 @@
 {
-    "WordJA": "日記",
-    "Hiragana": "にっき",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "diary; journal"
+	"WordJA": "日記",
+	"Kana": "にっき",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "diary; journal"
 }

@@ -1,8 +1,8 @@
 {
-    "WordJA": "気",
-    "Hiragana": "き",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "彼は年はとっているが気は若い",
-    "ExampleEN": "Though he is old, he has a youthful spirit.",
-    "MeaningEN": "spirit; mind; heart"
+	"WordJA": "気",
+	"Kana": "き",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "彼は年はとっているが気は若い",
+	"ExampleEN": "Though he is old, he has a youthful spirit.",
+	"MeaningEN": "spirit; mind; heart"
 }

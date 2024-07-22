@@ -1,8 +1,8 @@
 {
-    "WordJA": "始める",
-    "Hiragana": "はじめる",
-    "PartOfSpeech": "Ichidan verb, Transitive verb",
-    "ExampleJA": "いつゴルフを始めたのですか",
-    "ExampleEN": "When did you begin playing golf?",
-    "MeaningEN": "to start; to begin; to commence; to initiate; to originate"
+	"WordJA": "始める",
+	"Kana": "はじめる",
+	"PartOfSpeech": "Ichidan verb, Transitive verb",
+	"ExampleJA": "いつゴルフを始めたのですか",
+	"ExampleEN": "When did you begin playing golf?",
+	"MeaningEN": "to start; to begin; to commence; to initiate; to originate"
 }

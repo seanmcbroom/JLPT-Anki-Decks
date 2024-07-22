@@ -1,8 +1,8 @@
 {
-    "WordJA": "変わる",
-    "Hiragana": "かわる",
-    "PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
-    "ExampleJA": "私のアドレスが変わりました",
-    "ExampleEN": "My e-mail address has been changed.",
-    "MeaningEN": "to change; to be transformed; to be altered; to vary"
+	"WordJA": "変わる",
+	"Kana": "かわる",
+	"PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
+	"ExampleJA": "私のアドレスが変わりました",
+	"ExampleEN": "My e-mail address has been changed.",
+	"MeaningEN": "to change; to be transformed; to be altered; to vary"
 }

@@ -1,8 +1,8 @@
 {
-    "WordJA": "通る",
-    "Hiragana": "とおる",
-    "PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
-    "ExampleJA": "私は毎日その教会の前を通る",
-    "ExampleEN": "I go by that church every day.",
-    "MeaningEN": "to go by; to go past; to go along; to travel along; to pass through; to use (a road); to take (a route); to go via; to go by way of"
+	"WordJA": "通る",
+	"Kana": "とおる",
+	"PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
+	"ExampleJA": "私は毎日その教会の前を通る",
+	"ExampleEN": "I go by that church every day.",
+	"MeaningEN": "to go by; to go past; to go along; to travel along; to pass through; to use (a road); to take (a route); to go via; to go by way of"
 }

@@ -1,8 +1,8 @@
 {
-    "WordJA": "変",
-    "Hiragana": "へん",
-    "PartOfSpeech": "Na-adjective (keiyodoshi)",
-    "ExampleJA": "そのオレンジは後味が変だった",
-    "ExampleEN": "The orange left a strange taste in my mouth.",
-    "MeaningEN": "strange; odd; peculiar; weird; curious; eccentric; funny; suspicious; fishy"
+	"WordJA": "変",
+	"Kana": "へん",
+	"PartOfSpeech": "Na-adjective (keiyodoshi)",
+	"ExampleJA": "そのオレンジは後味が変だった",
+	"ExampleEN": "The orange left a strange taste in my mouth.",
+	"MeaningEN": "strange; odd; peculiar; weird; curious; eccentric; funny; suspicious; fishy"
 }

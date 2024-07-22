@@ -1,8 +1,8 @@
 {
-    "WordJA": "会話",
-    "Hiragana": "かいわ",
-    "PartOfSpeech": "Noun, Suru verb, Intransitive verb",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "conversation; talk; chat"
+	"WordJA": "会話",
+	"Kana": "かいわ",
+	"PartOfSpeech": "Noun, Suru verb, Intransitive verb",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "conversation; talk; chat"
 }

@@ -1,8 +1,8 @@
 {
-    "WordJA": "間違える",
-    "Hiragana": "まちがえる",
-    "PartOfSpeech": "Ichidan verb, Transitive verb",
-    "ExampleJA": "あなたがたは間違えることを怖がる必要はありません",
-    "ExampleEN": "You needn't be afraid of making mistakes.",
-    "MeaningEN": "to make a mistake (in); to commit an error (e.g. in calculation)"
+	"WordJA": "間違える",
+	"Kana": "まちがえる",
+	"PartOfSpeech": "Ichidan verb, Transitive verb",
+	"ExampleJA": "あなたがたは間違えることを怖がる必要はありません",
+	"ExampleEN": "You needn't be afraid of making mistakes.",
+	"MeaningEN": "to make a mistake (in); to commit an error (e.g. in calculation)"
 }

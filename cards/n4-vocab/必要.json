@@ -1,8 +1,8 @@
 {
-    "WordJA": "必要",
-    "Hiragana": "ひつよう",
-    "PartOfSpeech": "Na-adjective (keiyodoshi)",
-    "ExampleJA": "私達が生きていくためには衣食住が必要です",
-    "ExampleEN": "We need food, clothes and a home in order to live.",
-    "MeaningEN": "necessary; needed; essential; indispensable"
+	"WordJA": "必要",
+	"Kana": "ひつよう",
+	"PartOfSpeech": "Na-adjective (keiyodoshi)",
+	"ExampleJA": "私達が生きていくためには衣食住が必要です",
+	"ExampleEN": "We need food, clothes and a home in order to live.",
+	"MeaningEN": "necessary; needed; essential; indispensable"
 }

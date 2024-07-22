@@ -1,8 +1,8 @@
 {
-    "WordJA": "迎える",
-    "Hiragana": "むかえる",
-    "PartOfSpeech": "Ichidan verb, Transitive verb",
-    "ExampleJA": "医者を迎えにやったとき彼が病気になって１週間たっていた",
-    "ExampleEN": "He had been ill for a week when they sent for a doctor.",
-    "MeaningEN": "to go out to meet; to receive; to welcome; to greet; to salute; to hail"
+	"WordJA": "迎える",
+	"Kana": "むかえる",
+	"PartOfSpeech": "Ichidan verb, Transitive verb",
+	"ExampleJA": "医者を迎えにやったとき彼が病気になって１週間たっていた",
+	"ExampleEN": "He had been ill for a week when they sent for a doctor.",
+	"MeaningEN": "to go out to meet; to receive; to welcome; to greet; to salute; to hail"
 }

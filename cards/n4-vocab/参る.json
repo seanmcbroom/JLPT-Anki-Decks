@@ -1,8 +1,8 @@
 {
-    "WordJA": "参る",
-    "Hiragana": "まいる",
-    "PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
-    "ExampleJA": "分したらそちらにまいります",
-    "ExampleEN": "I'll be with you in a few minutes.",
-    "MeaningEN": "to go; to come; to call"
+	"WordJA": "参る",
+	"Kana": "まいる",
+	"PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
+	"ExampleJA": "分したらそちらにまいります",
+	"ExampleEN": "I'll be with you in a few minutes.",
+	"MeaningEN": "to go; to come; to call"
 }

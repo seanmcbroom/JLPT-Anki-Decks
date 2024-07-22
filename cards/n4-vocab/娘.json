@@ -1,8 +1,8 @@
 {
-    "WordJA": "娘",
-    "Hiragana": "むすめ",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "彼女は娘の身支度を手伝った",
-    "ExampleEN": "She aided her daughter in dressing.",
-    "MeaningEN": "daughter"
+	"WordJA": "娘",
+	"Kana": "むすめ",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "彼女は娘の身支度を手伝った",
+	"ExampleEN": "She aided her daughter in dressing.",
+	"MeaningEN": "daughter"
 }

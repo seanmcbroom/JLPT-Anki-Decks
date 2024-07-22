@@ -1,8 +1,8 @@
 {
-    "WordJA": "焼く",
-    "Hiragana": "やく",
-    "PartOfSpeech": "Godan verb with 'ku' ending, Transitive verb",
-    "ExampleJA": "このお肉をもうすこし焼いてくださいませんか",
-    "ExampleEN": "Could you cook this meat a little more?",
-    "MeaningEN": "to burn"
+	"WordJA": "焼く",
+	"Kana": "やく",
+	"PartOfSpeech": "Godan verb with 'ku' ending, Transitive verb",
+	"ExampleJA": "このお肉をもうすこし焼いてくださいませんか",
+	"ExampleEN": "Could you cook this meat a little more?",
+	"MeaningEN": "to burn"
 }

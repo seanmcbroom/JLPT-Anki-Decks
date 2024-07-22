@@ -1,8 +1,8 @@
 {
-    "WordJA": "投げる",
-    "Hiragana": "なげる",
-    "PartOfSpeech": "Ichidan verb, Transitive verb",
-    "ExampleJA": "その子は犬に石を投げた",
-    "ExampleEN": "That child threw a stone at the dog.",
-    "MeaningEN": "to throw; to hurl; to fling; to toss; to cast"
+	"WordJA": "投げる",
+	"Kana": "なげる",
+	"PartOfSpeech": "Ichidan verb, Transitive verb",
+	"ExampleJA": "その子は犬に石を投げた",
+	"ExampleEN": "That child threw a stone at the dog.",
+	"MeaningEN": "to throw; to hurl; to fling; to toss; to cast"
 }

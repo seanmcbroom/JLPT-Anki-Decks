@@ -1,8 +1,8 @@
 {
-    "WordJA": "放送",
-    "Hiragana": "ほうそう・する",
-    "PartOfSpeech": "Noun, Suru verb, Transitive verb",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "broadcasting; broadcast; program; announcement"
+	"WordJA": "放送",
+	"Kana": "ほうそう・する",
+	"PartOfSpeech": "Noun, Suru verb, Transitive verb",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "broadcasting; broadcast; program; announcement"
 }

@@ -1,8 +1,8 @@
 {
-    "WordJA": "続く",
-    "Hiragana": "つづく",
-    "PartOfSpeech": "Godan verb with 'ku' ending, Intransitive verb",
-    "ExampleJA": "どれくらいこの寒い天気は続きますか",
-    "ExampleEN": "How long will this cold weather go on?",
-    "MeaningEN": "to continue; to last; to go on"
+	"WordJA": "続く",
+	"Kana": "つづく",
+	"PartOfSpeech": "Godan verb with 'ku' ending, Intransitive verb",
+	"ExampleJA": "どれくらいこの寒い天気は続きますか",
+	"ExampleEN": "How long will this cold weather go on?",
+	"MeaningEN": "to continue; to last; to go on"
 }

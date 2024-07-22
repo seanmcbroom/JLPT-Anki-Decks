@@ -1,8 +1,8 @@
 {
-    "WordJA": "小説",
-    "Hiragana": "しょうせつ",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "は小説を読んでいる",
-    "ExampleEN": "Tom is reading a novel.",
-    "MeaningEN": "novel; story; (work of) fiction"
+	"WordJA": "小説",
+	"Kana": "しょうせつ",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "は小説を読んでいる",
+	"ExampleEN": "Tom is reading a novel.",
+	"MeaningEN": "novel; story; (work of) fiction"
 }

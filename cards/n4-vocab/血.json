@@ -1,8 +1,8 @@
 {
-    "WordJA": "血",
-    "Hiragana": "ち",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "ナイフは血に塗れていた",
-    "ExampleEN": "The knife was covered in blood.",
-    "MeaningEN": "blood"
+	"WordJA": "血",
+	"Kana": "ち",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "ナイフは血に塗れていた",
+	"ExampleEN": "The knife was covered in blood.",
+	"MeaningEN": "blood"
 }

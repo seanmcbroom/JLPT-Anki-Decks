@@ -1,8 +1,8 @@
 {
-    "WordJA": "向かう",
-    "Hiragana": "むかう",
-    "PartOfSpeech": "Godan verb with 'u' ending, Intransitive verb",
-    "ExampleJA": "一日中コンピューターに向かってるから結構電磁波浴びてる",
-    "ExampleEN": "I sit in front of a computer screen all day, so I get pretty heavily bombarded by electro-magnetic waves.",
-    "MeaningEN": "to face"
+	"WordJA": "向かう",
+	"Kana": "むかう",
+	"PartOfSpeech": "Godan verb with 'u' ending, Intransitive verb",
+	"ExampleJA": "一日中コンピューターに向かってるから結構電磁波浴びてる",
+	"ExampleEN": "I sit in front of a computer screen all day, so I get pretty heavily bombarded by electro-magnetic waves.",
+	"MeaningEN": "to face"
 }

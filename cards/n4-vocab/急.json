@@ -1,8 +1,8 @@
 {
-    "WordJA": "急",
-    "Hiragana": "きゅう",
-    "PartOfSpeech": "Na-adjective (keiyodoshi)",
-    "ExampleJA": "事態は急を要するので一刻も待てないと彼は言った",
-    "ExampleEN": "He said that the matter was urgent, and that there was not a moment to lose.",
-    "MeaningEN": "sudden; abrupt; unexpected"
+	"WordJA": "急",
+	"Kana": "きゅう",
+	"PartOfSpeech": "Na-adjective (keiyodoshi)",
+	"ExampleJA": "事態は急を要するので一刻も待てないと彼は言った",
+	"ExampleEN": "He said that the matter was urgent, and that there was not a moment to lose.",
+	"MeaningEN": "sudden; abrupt; unexpected"
 }

@@ -1,8 +1,8 @@
 {
-    "WordJA": "取り替える",
-    "Hiragana": "とりかえる",
-    "PartOfSpeech": "Ichidan verb, Transitive verb",
-    "ExampleJA": "これを青いのと取り替えてください",
-    "ExampleEN": "Please change this for a blue one.",
-    "MeaningEN": "to exchange; to swap; to barter"
+	"WordJA": "取り替える",
+	"Kana": "とりかえる",
+	"PartOfSpeech": "Ichidan verb, Transitive verb",
+	"ExampleJA": "これを青いのと取り替えてください",
+	"ExampleEN": "Please change this for a blue one.",
+	"MeaningEN": "to exchange; to swap; to barter"
 }

@@ -1,8 +1,8 @@
 {
-    "WordJA": "説明",
-    "Hiragana": "せつめい",
-    "PartOfSpeech": "Noun, Suru verb, Transitive verb",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "explanation; exposition; description; account; caption; legend"
+	"WordJA": "説明",
+	"Kana": "せつめい",
+	"PartOfSpeech": "Noun, Suru verb, Transitive verb",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "explanation; exposition; description; account; caption; legend"
 }

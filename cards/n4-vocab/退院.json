@@ -1,8 +1,8 @@
 {
-    "WordJA": "退院",
-    "Hiragana": "たいいん・する",
-    "PartOfSpeech": "Noun, Suru verb, Intransitive verb",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "leaving hospital; discharge from hospital"
+	"WordJA": "退院",
+	"Kana": "たいいん・する",
+	"PartOfSpeech": "Noun, Suru verb, Intransitive verb",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "leaving hospital; discharge from hospital"
 }

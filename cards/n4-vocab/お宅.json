@@ -1,8 +1,8 @@
 {
-    "WordJA": "お宅",
-    "Hiragana": "おたく",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "お宅の暖房はどのようにしていますか",
-    "ExampleEN": "How do you heat the house?",
-    "MeaningEN": "your house; your home; your family"
+	"WordJA": "お宅",
+	"Kana": "おたく",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "お宅の暖房はどのようにしていますか",
+	"ExampleEN": "How do you heat the house?",
+	"MeaningEN": "your house; your home; your family"
 }

@@ -14,7 +14,7 @@ for word in n4_words:
         else:    
             json_data = {
                 "WordJA": word,
-                "Hiragana": n4_words[word]['hiragana'],
+                "Kana": n4_words[word]['kana'],
                 "PartOfSpeech": parsed_data.get('part_of_speech', ''),
                 "ExampleJA": parsed_data.get('examples', {})[0].get('ja', ''),
                 "ExampleEN": parsed_data.get('examples', {})[0].get('en', ''),

@@ -1,8 +1,8 @@
 {
-    "WordJA": "噛む",
-    "Hiragana": "かむ",
-    "PartOfSpeech": "Godan verb with 'mu' ending, Transitive verb",
-    "ExampleJA": "爪を噛むのはよしなさい",
-    "ExampleEN": "Don't bite your nails.",
-    "MeaningEN": "to bite"
+	"WordJA": "噛む",
+	"Kana": "かむ",
+	"PartOfSpeech": "Godan verb with 'mu' ending, Transitive verb",
+	"ExampleJA": "爪を噛むのはよしなさい",
+	"ExampleEN": "Don't bite your nails.",
+	"MeaningEN": "to bite"
 }

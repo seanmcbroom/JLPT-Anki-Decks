@@ -1,8 +1,8 @@
 {
-    "WordJA": "安全",
-    "Hiragana": "あんぜん",
-    "PartOfSpeech": "Noun, Na-adjective (keiyodoshi)",
-    "ExampleJA": "君は自分の安全にもっと気を配るべきだ",
-    "ExampleEN": "You should be more thoughtful of your safety.",
-    "MeaningEN": "safety; security"
+	"WordJA": "安全",
+	"Kana": "あんぜん",
+	"PartOfSpeech": "Noun, Na-adjective (keiyodoshi)",
+	"ExampleJA": "君は自分の安全にもっと気を配るべきだ",
+	"ExampleEN": "You should be more thoughtful of your safety.",
+	"MeaningEN": "safety; security"
 }

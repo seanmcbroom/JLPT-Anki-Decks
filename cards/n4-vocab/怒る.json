@@ -1,8 +1,8 @@
 {
-    "WordJA": "怒る",
-    "Hiragana": "おこる",
-    "PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
-    "ExampleJA": "その子は留守番をしなければならないと言って怒っていた",
-    "ExampleEN": "The boy was cross at having to stay at home.",
-    "MeaningEN": "to get angry; to get mad; to lose one's temper"
+	"WordJA": "怒る",
+	"Kana": "おこる",
+	"PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
+	"ExampleJA": "その子は留守番をしなければならないと言って怒っていた",
+	"ExampleEN": "The boy was cross at having to stay at home.",
+	"MeaningEN": "to get angry; to get mad; to lose one's temper"
 }

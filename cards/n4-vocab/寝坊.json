@@ -1,8 +1,8 @@
 {
-    "WordJA": "寝坊",
-    "Hiragana": "ねぼう",
-    "PartOfSpeech": "Noun, Suru verb, Intransitive verb, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "sleeping in late; oversleeping"
+	"WordJA": "寝坊",
+	"Kana": "ねぼう",
+	"PartOfSpeech": "Noun, Suru verb, Intransitive verb, Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no'",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "sleeping in late; oversleeping"
 }

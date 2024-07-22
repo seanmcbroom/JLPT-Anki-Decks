@@ -1,8 +1,8 @@
 {
-    "WordJA": "億",
-    "Hiragana": "おく",
-    "PartOfSpeech": "Numeric",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "hundred million; 100,000,000; 10^8"
+	"WordJA": "億",
+	"Kana": "おく",
+	"PartOfSpeech": "Numeric",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "hundred million; 100,000,000; 10^8"
 }

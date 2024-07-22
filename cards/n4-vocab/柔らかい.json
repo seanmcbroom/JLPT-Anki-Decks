@@ -1,8 +1,8 @@
 {
-    "WordJA": "柔らかい",
-    "Hiragana": "やわらかい",
-    "PartOfSpeech": "I-adjective (keiyoushi)",
-    "ExampleJA": "私は柔らかいベッドで眠るのが好きです",
-    "ExampleEN": "I like to sleep on a soft bed.",
-    "MeaningEN": "soft; tender; supple; flexible; limber; limp"
+	"WordJA": "柔らかい",
+	"Kana": "やわらかい",
+	"PartOfSpeech": "I-adjective (keiyoushi)",
+	"ExampleJA": "私は柔らかいベッドで眠るのが好きです",
+	"ExampleEN": "I like to sleep on a soft bed.",
+	"MeaningEN": "soft; tender; supple; flexible; limber; limp"
 }

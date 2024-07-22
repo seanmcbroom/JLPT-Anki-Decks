@@ -1,8 +1,8 @@
 {
-    "WordJA": "包む",
-    "Hiragana": "つつむ",
-    "PartOfSpeech": "Godan verb with 'mu' ending, Transitive verb",
-    "ExampleJA": "彼女は贈り物を紙に包んだ",
-    "ExampleEN": "She wrapped the present in paper.",
-    "MeaningEN": "to wrap up; to pack; to bundle; to do up"
+	"WordJA": "包む",
+	"Kana": "つつむ",
+	"PartOfSpeech": "Godan verb with 'mu' ending, Transitive verb",
+	"ExampleJA": "彼女は贈り物を紙に包んだ",
+	"ExampleEN": "She wrapped the present in paper.",
+	"MeaningEN": "to wrap up; to pack; to bundle; to do up"
 }

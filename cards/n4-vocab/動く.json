@@ -1,8 +1,8 @@
 {
-    "WordJA": "動く",
-    "Hiragana": "うごく",
-    "PartOfSpeech": "Godan verb with 'ku' ending, Intransitive verb",
-    "ExampleJA": "私は家の中で何かが動くのを感じた",
-    "ExampleEN": "I felt something move in the house.",
-    "MeaningEN": "to move; to stir; to shift; to shake; to swing"
+	"WordJA": "動く",
+	"Kana": "うごく",
+	"PartOfSpeech": "Godan verb with 'ku' ending, Intransitive verb",
+	"ExampleJA": "私は家の中で何かが動くのを感じた",
+	"ExampleEN": "I felt something move in the house.",
+	"MeaningEN": "to move; to stir; to shift; to shake; to swing"
 }

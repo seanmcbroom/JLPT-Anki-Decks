@@ -1,8 +1,8 @@
 {
-    "WordJA": "家内",
-    "Hiragana": "かない",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "家内は海外旅行中でよく電話をかけてくる",
-    "ExampleEN": "My wife often rings me up, while she travels abroad.",
-    "MeaningEN": "(my) wife"
+	"WordJA": "家内",
+	"Kana": "かない",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "家内は海外旅行中でよく電話をかけてくる",
+	"ExampleEN": "My wife often rings me up, while she travels abroad.",
+	"MeaningEN": "(my) wife"
 }

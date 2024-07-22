@@ -1,8 +1,8 @@
 {
-    "WordJA": "客",
-    "Hiragana": "きゃく",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "夕食にお客を招いていますか",
-    "ExampleEN": "Do you have guests for dinner?",
-    "MeaningEN": "guest; visitor"
+	"WordJA": "客",
+	"Kana": "きゃく",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "夕食にお客を招いていますか",
+	"ExampleEN": "Do you have guests for dinner?",
+	"MeaningEN": "guest; visitor"
 }

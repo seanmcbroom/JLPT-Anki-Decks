@@ -1,8 +1,8 @@
 {
-    "WordJA": "男性",
-    "Hiragana": "だんせい",
-    "PartOfSpeech": "Noun, Noun which may take the genitive case particle 'no'",
-    "ExampleJA": "一部屋に３人で泊まっていただけますかと彼はたずねましたええかまいませんよと３人の男性は答えました",
-    "ExampleEN": "He asked the men, \"Would you share a room?\" \"Certainly, we will,\" answered the three men.",
-    "MeaningEN": "man; male"
+	"WordJA": "男性",
+	"Kana": "だんせい",
+	"PartOfSpeech": "Noun, Noun which may take the genitive case particle 'no'",
+	"ExampleJA": "一部屋に３人で泊まっていただけますかと彼はたずねましたええかまいませんよと３人の男性は答えました",
+	"ExampleEN": "He asked the men, \"Would you share a room?\" \"Certainly, we will,\" answered the three men.",
+	"MeaningEN": "man; male"
 }

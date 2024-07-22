@@ -1,8 +1,8 @@
 {
-    "WordJA": "止める",
-    "Hiragana": "とめる",
-    "PartOfSpeech": "Ichidan verb, Transitive verb",
-    "ExampleJA": "その新聞は政府にインフレを止めるように求めた",
-    "ExampleEN": "The newspaper called for the government to stop inflation.",
-    "MeaningEN": "to stop; to turn off"
+	"WordJA": "止める",
+	"Kana": "とめる",
+	"PartOfSpeech": "Ichidan verb, Transitive verb",
+	"ExampleJA": "その新聞は政府にインフレを止めるように求めた",
+	"ExampleEN": "The newspaper called for the government to stop inflation.",
+	"MeaningEN": "to stop; to turn off"
 }

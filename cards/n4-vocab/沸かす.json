@@ -1,8 +1,8 @@
 {
-    "WordJA": "沸かす",
-    "Hiragana": "わかす",
-    "PartOfSpeech": "Godan verb with 'su' ending, Transitive verb",
-    "ExampleJA": "はコーヒーを入れる為にお湯を沸かしている",
-    "ExampleEN": "Jessie is boiling water to make coffee.",
-    "MeaningEN": "to boil; to heat (a liquid); to prepare (a bath, hot drink)"
+	"WordJA": "沸かす",
+	"Kana": "わかす",
+	"PartOfSpeech": "Godan verb with 'su' ending, Transitive verb",
+	"ExampleJA": "はコーヒーを入れる為にお湯を沸かしている",
+	"ExampleEN": "Jessie is boiling water to make coffee.",
+	"MeaningEN": "to boil; to heat (a liquid); to prepare (a bath, hot drink)"
 }

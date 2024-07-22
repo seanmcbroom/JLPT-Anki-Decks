@@ -1,8 +1,8 @@
 {
-    "WordJA": "聞こえる",
-    "Hiragana": "きこえる",
-    "PartOfSpeech": "Ichidan verb, Intransitive verb",
-    "ExampleJA": "妙な音が聞こえた",
-    "ExampleEN": "I heard a strange sound.",
-    "MeaningEN": "to be heard; to be audible; to reach one's ears"
+	"WordJA": "聞こえる",
+	"Kana": "きこえる",
+	"PartOfSpeech": "Ichidan verb, Intransitive verb",
+	"ExampleJA": "妙な音が聞こえた",
+	"ExampleEN": "I heard a strange sound.",
+	"MeaningEN": "to be heard; to be audible; to reach one's ears"
 }

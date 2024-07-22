@@ -1,8 +1,8 @@
 {
-    "WordJA": "笑う",
-    "Hiragana": "わらう",
-    "PartOfSpeech": "Godan verb with 'u' ending, Intransitive verb",
-    "ExampleJA": "クラスのもの皆が彼の冗談に笑った",
-    "ExampleEN": "The whole class laughed at his joke.",
-    "MeaningEN": "to laugh"
+	"WordJA": "笑う",
+	"Kana": "わらう",
+	"PartOfSpeech": "Godan verb with 'u' ending, Intransitive verb",
+	"ExampleJA": "クラスのもの皆が彼の冗談に笑った",
+	"ExampleEN": "The whole class laughed at his joke.",
+	"MeaningEN": "to laugh"
 }

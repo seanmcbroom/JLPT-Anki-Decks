@@ -1,8 +1,8 @@
 {
-    "WordJA": "僕",
-    "Hiragana": "ぼく",
-    "PartOfSpeech": "Pronoun",
-    "ExampleJA": "僕はに謝ろうと電話したのに彼女ときたら一方的に電話を切っちゃったんだ",
-    "ExampleEN": "I called Susan to apologize to her, but she hung up on me.",
-    "MeaningEN": "I; me"
+	"WordJA": "僕",
+	"Kana": "ぼく",
+	"PartOfSpeech": "Pronoun",
+	"ExampleJA": "僕はに謝ろうと電話したのに彼女ときたら一方的に電話を切っちゃったんだ",
+	"ExampleEN": "I called Susan to apologize to her, but she hung up on me.",
+	"MeaningEN": "I; me"
 }

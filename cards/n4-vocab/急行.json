@@ -1,8 +1,8 @@
 {
-    "WordJA": "急行",
-    "Hiragana": "きゅうこう",
-    "PartOfSpeech": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
-    "ExampleJA": "彼らは事故の現場へ急行した",
-    "ExampleEN": "They made for the scene of the accident.",
-    "MeaningEN": "hurrying (to somewhere); rushing; hastening"
+	"WordJA": "急行",
+	"Kana": "きゅうこう",
+	"PartOfSpeech": "Noun, Suru verb, Noun which may take the genitive case particle 'no'",
+	"ExampleJA": "彼らは事故の現場へ急行した",
+	"ExampleEN": "They made for the scene of the accident.",
+	"MeaningEN": "hurrying (to somewhere); rushing; hastening"
 }

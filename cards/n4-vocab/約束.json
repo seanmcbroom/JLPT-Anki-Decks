@@ -1,8 +1,8 @@
 {
-    "WordJA": "約束",
-    "Hiragana": "やくそく",
-    "PartOfSpeech": "Noun, Suru verb, Transitive verb",
-    "ExampleJA": "自分が約束したことはちゃんと実行するように最善を尽くすべきだ",
-    "ExampleEN": "You should do your best to carry out your promises.",
-    "MeaningEN": "promise; agreement; arrangement; one's word; contract; pact"
+	"WordJA": "約束",
+	"Kana": "やくそく",
+	"PartOfSpeech": "Noun, Suru verb, Transitive verb",
+	"ExampleJA": "自分が約束したことはちゃんと実行するように最善を尽くすべきだ",
+	"ExampleEN": "You should do your best to carry out your promises.",
+	"MeaningEN": "promise; agreement; arrangement; one's word; contract; pact"
 }

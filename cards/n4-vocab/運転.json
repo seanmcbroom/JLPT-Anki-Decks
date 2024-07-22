@@ -1,8 +1,8 @@
 {
-    "WordJA": "運転",
-    "Hiragana": "うんてん・する",
-    "PartOfSpeech": "Noun, Suru verb, Transitive verb, Intransitive verb",
-    "ExampleJA": "現在台の機械が運転中です",
-    "ExampleEN": "Fifty of the machines are running at the present time.",
-    "MeaningEN": "operation (of a machine); running; working"
+	"WordJA": "運転",
+	"Kana": "うんてん・する",
+	"PartOfSpeech": "Noun, Suru verb, Transitive verb, Intransitive verb",
+	"ExampleJA": "現在台の機械が運転中です",
+	"ExampleEN": "Fifty of the machines are running at the present time.",
+	"MeaningEN": "operation (of a machine); running; working"
 }

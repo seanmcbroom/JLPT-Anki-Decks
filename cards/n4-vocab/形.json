@@ -1,8 +1,8 @@
 {
-    "WordJA": "形",
-    "Hiragana": "かたち",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "物質は温度によって形を変える",
-    "ExampleEN": "Matter changes its form according to temperature.",
-    "MeaningEN": "form; shape; figure"
+	"WordJA": "形",
+	"Kana": "かたち",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "物質は温度によって形を変える",
+	"ExampleEN": "Matter changes its form according to temperature.",
+	"MeaningEN": "form; shape; figure"
 }

@@ -1,8 +1,8 @@
 {
-    "WordJA": "食事",
-    "Hiragana": "しょくじ・する",
-    "PartOfSpeech": "Noun, Suru verb, Intransitive verb",
-    "ExampleJA": "あなたのロボットは食事の支度掃除皿洗いその他の家事ができるでしょう",
-    "ExampleEN": "Your robot will prepare meals, clean, wash dishes, and perform other household tasks.",
-    "MeaningEN": "meal; dinner"
+	"WordJA": "食事",
+	"Kana": "しょくじ・する",
+	"PartOfSpeech": "Noun, Suru verb, Intransitive verb",
+	"ExampleJA": "あなたのロボットは食事の支度掃除皿洗いその他の家事ができるでしょう",
+	"ExampleEN": "Your robot will prepare meals, clean, wash dishes, and perform other household tasks.",
+	"MeaningEN": "meal; dinner"
 }

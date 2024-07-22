@@ -1,8 +1,8 @@
 {
-    "WordJA": "久しぶり",
-    "Hiragana": "ひさしぶり",
-    "PartOfSpeech": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "a long time (since the last time); first in a long time"
+	"WordJA": "久しぶり",
+	"Kana": "ひさしぶり",
+	"PartOfSpeech": "Na-adjective (keiyodoshi), Noun which may take the genitive case particle 'no', Noun",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "a long time (since the last time); first in a long time"
 }

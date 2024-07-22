@@ -1,8 +1,8 @@
 {
-    "WordJA": "出席",
-    "Hiragana": "しゅっせき・する",
-    "PartOfSpeech": "Noun, Suru verb, Intransitive verb",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "attendance; presence; appearance"
+	"WordJA": "出席",
+	"Kana": "しゅっせき・する",
+	"PartOfSpeech": "Noun, Suru verb, Intransitive verb",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "attendance; presence; appearance"
 }

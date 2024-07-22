@@ -1,8 +1,8 @@
 {
-    "WordJA": "彼",
-    "Hiragana": "かれ",
-    "PartOfSpeech": "Pronoun",
-    "ExampleJA": "彼のスイングは実に見事だ",
-    "ExampleEN": "He has a perfect swing.",
-    "MeaningEN": "he; him"
+	"WordJA": "彼",
+	"Kana": "かれ",
+	"PartOfSpeech": "Pronoun",
+	"ExampleJA": "彼のスイングは実に見事だ",
+	"ExampleEN": "He has a perfect swing.",
+	"MeaningEN": "he; him"
 }

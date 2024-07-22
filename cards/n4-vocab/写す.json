@@ -1,8 +1,8 @@
 {
-    "WordJA": "写す",
-    "Hiragana": "うつす",
-    "PartOfSpeech": "Godan verb with 'su' ending, Transitive verb",
-    "ExampleJA": "このページをノートに写しておきなさい",
-    "ExampleEN": "Copy this page in your notebook.",
-    "MeaningEN": "to copy; to duplicate; to reproduce; to trace; to transcribe"
+	"WordJA": "写す",
+	"Kana": "うつす",
+	"PartOfSpeech": "Godan verb with 'su' ending, Transitive verb",
+	"ExampleJA": "このページをノートに写しておきなさい",
+	"ExampleEN": "Copy this page in your notebook.",
+	"MeaningEN": "to copy; to duplicate; to reproduce; to trace; to transcribe"
 }

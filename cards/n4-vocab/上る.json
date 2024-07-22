@@ -1,8 +1,8 @@
 {
-    "WordJA": "上る",
-    "Hiragana": "あがる",
-    "PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
-    "ExampleJA": "あなたは上れませんよ",
-    "ExampleEN": "You cannot climb!",
-    "MeaningEN": "to ascend; to go up; to climb"
+	"WordJA": "上る",
+	"Kana": "あがる",
+	"PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
+	"ExampleJA": "あなたは上れませんよ",
+	"ExampleEN": "You cannot climb!",
+	"MeaningEN": "to ascend; to go up; to climb"
 }

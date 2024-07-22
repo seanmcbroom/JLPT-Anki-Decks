@@ -1,8 +1,8 @@
 {
-    "WordJA": "市民",
-    "Hiragana": "しみん",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "その新しい法律が市民から自由を奪った",
-    "ExampleEN": "The new law has deprived the citizens of their liberty.",
-    "MeaningEN": "citizen (of a country); citizenry"
+	"WordJA": "市民",
+	"Kana": "しみん",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "その新しい法律が市民から自由を奪った",
+	"ExampleEN": "The new law has deprived the citizens of their liberty.",
+	"MeaningEN": "citizen (of a country); citizenry"
 }

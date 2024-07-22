@@ -1,8 +1,8 @@
 {
-    "WordJA": "米",
-    "Hiragana": "こめ",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "マイルは約メートルにあたる",
-    "ExampleEN": "A mile is equal to about 1,600 meters.",
-    "MeaningEN": "metre (unit of length); meter"
+	"WordJA": "米",
+	"Kana": "こめ",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "マイルは約メートルにあたる",
+	"ExampleEN": "A mile is equal to about 1,600 meters.",
+	"MeaningEN": "metre (unit of length); meter"
 }

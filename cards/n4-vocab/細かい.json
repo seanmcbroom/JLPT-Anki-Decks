@@ -1,8 +1,8 @@
 {
-    "WordJA": "細かい",
-    "Hiragana": "こまかい",
-    "PartOfSpeech": "I-adjective (keiyoushi)",
-    "ExampleJA": "塩漬けキャベツを細かく切る",
-    "ExampleEN": "Chop the pickled cabbage finely.",
-    "MeaningEN": "small"
+	"WordJA": "細かい",
+	"Kana": "こまかい",
+	"PartOfSpeech": "I-adjective (keiyoushi)",
+	"ExampleJA": "塩漬けキャベツを細かく切る",
+	"ExampleEN": "Chop the pickled cabbage finely.",
+	"MeaningEN": "small"
 }

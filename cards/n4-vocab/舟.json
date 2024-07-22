@@ -1,8 +1,8 @@
 {
-    "WordJA": "舟",
-    "Hiragana": "ふね",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "彼らは船を岸に引き上げた",
-    "ExampleEN": "They drew their boat on the beach.",
-    "MeaningEN": "ship; boat; watercraft; vessel; seaplane"
+	"WordJA": "舟",
+	"Kana": "ふね",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "彼らは船を岸に引き上げた",
+	"ExampleEN": "They drew their boat on the beach.",
+	"MeaningEN": "ship; boat; watercraft; vessel; seaplane"
 }

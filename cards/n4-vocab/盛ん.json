@@ -1,8 +1,8 @@
 {
-    "WordJA": "盛ん",
-    "Hiragana": "さかん",
-    "PartOfSpeech": "Na-adjective (keiyodoshi)",
-    "ExampleJA": "日本では英語教育が盛んである",
-    "ExampleEN": "English education flourishes in Japan.",
-    "MeaningEN": "prosperous; flourishing; thriving; successful"
+	"WordJA": "盛ん",
+	"Kana": "さかん",
+	"PartOfSpeech": "Na-adjective (keiyodoshi)",
+	"ExampleJA": "日本では英語教育が盛んである",
+	"ExampleEN": "English education flourishes in Japan.",
+	"MeaningEN": "prosperous; flourishing; thriving; successful"
 }

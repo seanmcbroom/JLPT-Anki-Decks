@@ -1,8 +1,8 @@
 {
-    "WordJA": "地震",
-    "Hiragana": "じしん",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "earthquake"
+	"WordJA": "地震",
+	"Kana": "じしん",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "earthquake"
 }

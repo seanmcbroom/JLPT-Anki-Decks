@@ -1,8 +1,8 @@
 {
-    "WordJA": "数学",
-    "Hiragana": "すうがく",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "",
-    "ExampleEN": "",
-    "MeaningEN": "mathematics"
+	"WordJA": "数学",
+	"Kana": "すうがく",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "",
+	"ExampleEN": "",
+	"MeaningEN": "mathematics"
 }

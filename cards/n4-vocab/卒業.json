@@ -1,8 +1,8 @@
 {
-    "WordJA": "卒業",
-    "Hiragana": "そつぎょう",
-    "PartOfSpeech": "Noun, Suru verb, Intransitive verb",
-    "ExampleJA": "彼は学校を卒業したあとロンドンへ行った",
-    "ExampleEN": "After he left school, he went to London.",
-    "MeaningEN": "graduation; completion (of a course)"
+	"WordJA": "卒業",
+	"Kana": "そつぎょう",
+	"PartOfSpeech": "Noun, Suru verb, Intransitive verb",
+	"ExampleJA": "彼は学校を卒業したあとロンドンへ行った",
+	"ExampleEN": "After he left school, he went to London.",
+	"MeaningEN": "graduation; completion (of a course)"
 }

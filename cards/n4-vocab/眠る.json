@@ -1,8 +1,8 @@
 {
-    "WordJA": "眠る",
-    "Hiragana": "ねむる",
-    "PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
-    "ExampleJA": "もし眠るといけないので目覚し時計をセットしなさい",
-    "ExampleEN": "In case you sleep, set the alarm.",
-    "MeaningEN": "to sleep"
+	"WordJA": "眠る",
+	"Kana": "ねむる",
+	"PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
+	"ExampleJA": "もし眠るといけないので目覚し時計をセットしなさい",
+	"ExampleEN": "In case you sleep, set the alarm.",
+	"MeaningEN": "to sleep"
 }

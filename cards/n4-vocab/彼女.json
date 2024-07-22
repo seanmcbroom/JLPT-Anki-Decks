@@ -1,8 +1,8 @@
 {
-    "WordJA": "彼女",
-    "Hiragana": "かのじょ",
-    "PartOfSpeech": "Pronoun",
-    "ExampleJA": "あの音で考え事ができないわと彼女はタイプライターを見つめながら言った",
-    "ExampleEN": "\"I can't think with that noise,\" she said, staring at the typewriter.",
-    "MeaningEN": "she; her"
+	"WordJA": "彼女",
+	"Kana": "かのじょ",
+	"PartOfSpeech": "Pronoun",
+	"ExampleJA": "あの音で考え事ができないわと彼女はタイプライターを見つめながら言った",
+	"ExampleEN": "\"I can't think with that noise,\" she said, staring at the typewriter.",
+	"MeaningEN": "she; her"
 }

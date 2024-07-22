@@ -1,8 +1,8 @@
 {
-    "WordJA": "汚れる",
-    "Hiragana": "よごれる",
-    "PartOfSpeech": "Ichidan verb, Intransitive verb",
-    "ExampleJA": "この部屋の空気は汚れている",
-    "ExampleEN": "The air in this room is foul.",
-    "MeaningEN": "to get dirty; to become dirty"
+	"WordJA": "汚れる",
+	"Kana": "よごれる",
+	"PartOfSpeech": "Ichidan verb, Intransitive verb",
+	"ExampleJA": "この部屋の空気は汚れている",
+	"ExampleEN": "The air in this room is foul.",
+	"MeaningEN": "to get dirty; to become dirty"
 }

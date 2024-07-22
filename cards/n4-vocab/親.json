@@ -1,8 +1,8 @@
 {
-    "WordJA": "親",
-    "Hiragana": "おや",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "アナは親が知らないうちに結婚した",
-    "ExampleEN": "Anna married without the knowledge of her parents.",
-    "MeaningEN": "parent; parents; mother and father"
+	"WordJA": "親",
+	"Kana": "おや",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "アナは親が知らないうちに結婚した",
+	"ExampleEN": "Anna married without the knowledge of her parents.",
+	"MeaningEN": "parent; parents; mother and father"
 }

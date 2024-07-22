@@ -1,8 +1,8 @@
 {
-    "WordJA": "硬い",
-    "Hiragana": "かたい",
-    "PartOfSpeech": "I-adjective (keiyoushi)",
-    "ExampleJA": "卵は硬くゆでてください",
-    "ExampleEN": "Boil the eggs hard.",
-    "MeaningEN": "hard; solid; tough"
+	"WordJA": "硬い",
+	"Kana": "かたい",
+	"PartOfSpeech": "I-adjective (keiyoushi)",
+	"ExampleJA": "卵は硬くゆでてください",
+	"ExampleEN": "Boil the eggs hard.",
+	"MeaningEN": "hard; solid; tough"
 }

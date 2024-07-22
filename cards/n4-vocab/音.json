@@ -1,8 +1,8 @@
 {
-    "WordJA": "音",
-    "Hiragana": "おと",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "ここから海の音が聞こえる",
-    "ExampleEN": "We can hear the ocean from here.",
-    "MeaningEN": "sound; noise"
+	"WordJA": "音",
+	"Kana": "おと",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "ここから海の音が聞こえる",
+	"ExampleEN": "We can hear the ocean from here.",
+	"MeaningEN": "sound; noise"
 }

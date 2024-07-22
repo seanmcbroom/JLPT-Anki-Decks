@@ -1,8 +1,8 @@
 {
-    "WordJA": "掛ける",
-    "Hiragana": "かける",
-    "PartOfSpeech": "Ichidan verb, Transitive verb",
-    "ExampleJA": "コートをハンガーに掛けておきなさい",
-    "ExampleEN": "Put your coat on a hanger.",
-    "MeaningEN": "to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from); to hoist (e.g. sail); to raise (e.g. flag)"
+	"WordJA": "掛ける",
+	"Kana": "かける",
+	"PartOfSpeech": "Ichidan verb, Transitive verb",
+	"ExampleJA": "コートをハンガーに掛けておきなさい",
+	"ExampleEN": "Put your coat on a hanger.",
+	"MeaningEN": "to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from); to hoist (e.g. sail); to raise (e.g. flag)"
 }

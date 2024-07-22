@@ -1,8 +1,8 @@
 {
-    "WordJA": "代わり",
-    "Hiragana": "かわり",
-    "PartOfSpeech": "Noun, Noun which may take the genitive case particle 'no'",
-    "ExampleJA": "自分で行く代わりに手紙を送りました",
-    "ExampleEN": "Instead of going myself, I sent a letter.",
-    "MeaningEN": "substitute; replacement; substituting; replacing"
+	"WordJA": "代わり",
+	"Kana": "かわり",
+	"PartOfSpeech": "Noun, Noun which may take the genitive case particle 'no'",
+	"ExampleJA": "自分で行く代わりに手紙を送りました",
+	"ExampleEN": "Instead of going myself, I sent a letter.",
+	"MeaningEN": "substitute; replacement; substituting; replacing"
 }

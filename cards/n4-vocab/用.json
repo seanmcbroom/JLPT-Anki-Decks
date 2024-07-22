@@ -1,8 +1,8 @@
 {
-    "WordJA": "用",
-    "Hiragana": "よう",
-    "PartOfSpeech": "Noun",
-    "ExampleJA": "何の用でここに来たのですか",
-    "ExampleEN": "What has brought you here?",
-    "MeaningEN": "business; task; errand; engagement"
+	"WordJA": "用",
+	"Kana": "よう",
+	"PartOfSpeech": "Noun",
+	"ExampleJA": "何の用でここに来たのですか",
+	"ExampleEN": "What has brought you here?",
+	"MeaningEN": "business; task; errand; engagement"
 }
