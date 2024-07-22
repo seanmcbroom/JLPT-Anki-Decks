@@ -1,8 +1,13 @@
+import util.jisho_parser as jisho_parser
 import json
-import time
-import jisho_parser
+from pathlib import Path
 
-with open('./word-lists/n4_words.json', 'r', encoding='utf-8') as n4_words_file:
+import time
+
+WORD_LIST_PATH = Path('./word-lists/test.json')
+OUT_PATH = Path('./cards/n4-vocab')
+
+with WORD_LIST_PATH.open('r', encoding='utf-8') as n4_words_file:
     n4_words = json.load(n4_words_file)
 
 for word in n4_words:
@@ -22,9 +27,9 @@ for word in n4_words:
             }
             
             # Save results to a new JSON file
-            with open(f'./cards/n4-vocab/{word}.json', 'w', encoding='utf-8') as outfile:
+            with Path(OUT_PATH, f'{word}.json').open('w', encoding='utf-8') as outfile:
                 json.dump(json_data, outfile, ensure_ascii=False, indent=4)
     except Exception as e:
-                print(f"Failed to process word '{word}': {e}")
+        print(f"Failed to process word '{word}': {e}")
     
     time.sleep(5) # sleep between so jisho doesn't get mad
