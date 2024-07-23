@@ -1,8 +1,8 @@
 {
-	"WordJA": "割合",
-	"Kana": "わりあい",
-	"PartOfSpeech": "Noun",
-	"ExampleJA": "クラスの女生徒の男生徒に対する割合は対だ",
-	"ExampleEN": "The proportion of girls to boys in our class is three to two.",
-	"MeaningEN": "rate; ratio; percentage; proportion"
+    "WordJA": "割合",
+    "Kana": "わりあい",
+    "PartOfSpeech": "Noun",
+    "ExampleJA": "クラスの女生徒の男生徒に対する割合は対だ",
+    "ExampleEN": "The proportion of girls to boys in our class is three to two.",
+    "MeaningEN": "rate; ratio; percentage; proportion"
 }

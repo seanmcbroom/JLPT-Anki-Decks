@@ -1,8 +1,8 @@
 {
-	"WordJA": "直る",
-	"Kana": "なおる",
-	"PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
-	"ExampleJA": "週間もすれば自然に治ります",
-	"ExampleEN": "It will go away by itself in two weeks.",
-	"MeaningEN": "to get better; to get well; to recover (from an illness); to be cured; to be restored; to heal"
+    "WordJA": "治る",
+    "Kana": "なおる",
+    "PartOfSpeech": "Godan verb with 'ru' ending, Intransitive verb",
+    "ExampleJA": "週間もすれば自然に治ります",
+    "ExampleEN": "It will go away by itself in two weeks.",
+    "MeaningEN": "to get better; to get well; to recover (from an illness); to be cured; to be restored; to heal"
 }

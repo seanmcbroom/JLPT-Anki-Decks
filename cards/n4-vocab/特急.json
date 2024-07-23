@@ -1,8 +1,8 @@
 {
-	"WordJA": "特急",
-	"Kana": "とっきゅう",
-	"PartOfSpeech": "Noun",
-	"ExampleJA": "時計がおくれていたので私は特急にのりそこねた",
-	"ExampleEN": "As my watch was slow, I missed the special express.",
-	"MeaningEN": "limited express (train for which a limited-express ticket is required)"
+    "WordJA": "特急",
+    "Kana": "とっきゅう",
+    "PartOfSpeech": "Noun",
+    "ExampleJA": "時計がおくれていたので私は特急にのりそこねた",
+    "ExampleEN": "As my watch was slow, I missed the special express.",
+    "MeaningEN": "limited express (train for which a limited-express ticket is required)"
 }

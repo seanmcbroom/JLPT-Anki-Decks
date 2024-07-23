@@ -3,7 +3,7 @@ import os
 import genanki
 
 DECK_NAME = "JLPT N4 Vocab"
-DECK_VERSION = "v1.0"
+DECK_VERSION = "v1.0.1"
 
 # Create a new deck
 my_deck = genanki.Deck(

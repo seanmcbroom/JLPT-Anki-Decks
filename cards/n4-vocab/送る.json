@@ -1,8 +1,8 @@
 {
-	"WordJA": "送る",
-	"Kana": "おくる",
-	"PartOfSpeech": "Godan verb with 'ru' ending, Transitive verb",
-	"ExampleJA": "この手紙を日本に送ってくれませんか",
-	"ExampleEN": "Could you send this letter to Japan?",
-	"MeaningEN": "to send; to dispatch; to forward; to transmit; to ship; to remit"
+    "WordJA": "送る",
+    "Kana": "おくる",
+    "PartOfSpeech": "Godan verb with 'ru' ending, Transitive verb",
+    "ExampleJA": "この手紙を日本に送ってくれませんか",
+    "ExampleEN": "Could you send this letter to Japan?",
+    "MeaningEN": "to send; to dispatch; to forward; to transmit; to ship; to remit"
 }

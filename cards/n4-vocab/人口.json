@@ -1,8 +1,8 @@
 {
-	"WordJA": "人口",
-	"Kana": "じんこう",
-	"PartOfSpeech": "Noun",
-	"ExampleJA": "紀元年までにはこの市の人口は倍増しているだろう",
-	"ExampleEN": "By the year 2020, the population of our city will have doubled.",
-	"MeaningEN": "population"
+    "WordJA": "人口",
+    "Kana": "じんこう",
+    "PartOfSpeech": "Noun",
+    "ExampleJA": "紀元年までにはこの市の人口は倍増しているだろう",
+    "ExampleEN": "By the year 2020, the population of our city will have doubled.",
+    "MeaningEN": "population"
 }

@@ -1,8 +1,8 @@
 {
-	"WordJA": "倍",
-	"Kana": "ばい",
-	"PartOfSpeech": "Noun, Noun which may take the genitive case particle 'no'",
-	"ExampleJA": "彼は私の倍食べた",
-	"ExampleEN": "He ate twice as much as I did.",
-	"MeaningEN": "double; twice (as much)"
+    "WordJA": "倍",
+    "Kana": "ばい",
+    "PartOfSpeech": "Noun, Noun which may take the genitive case particle 'no'",
+    "ExampleJA": "彼は私の倍食べた",
+    "ExampleEN": "He ate twice as much as I did.",
+    "MeaningEN": "double; twice (as much)"
 }

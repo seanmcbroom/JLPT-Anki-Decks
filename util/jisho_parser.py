@@ -3,6 +3,7 @@ import requests
 
 def from_word(word):
     result = {
+        'word': '',
         'kana': '',
         'part_of_speech': '',
         'meaning': '',
@@ -20,9 +21,9 @@ def from_word(word):
     if not main_result:
         return {'error': 'Word not found'}
     
-    # Get kana reading
-    kana = main_result.find("span", class_="furigana").text.strip()
-    result['kana'] = kana
+    word = main_result.find("span", class_="text").text.strip()
+    
+    result['word'] = word
     
     # Get part of speech and first meaning
     meanings_section = main_result.find("div", class_="concept_light-meanings")

@@ -1,8 +1,8 @@
 {
-	"WordJA": "以下",
-	"Kana": "いか",
-	"PartOfSpeech": "Noun, used as a suffix",
-	"ExampleJA": "歳以下の子供は劇場には入場できません",
-	"ExampleEN": "Children of age sixteen and under will not be admitted to the theatre.",
-	"MeaningEN": "not exceeding ...; not more than ...; ... and under; ... and below; ... or fewer"
+    "WordJA": "以下",
+    "Kana": "いか",
+    "PartOfSpeech": "Noun, used as a suffix",
+    "ExampleJA": "歳以下の子供は劇場には入場できません",
+    "ExampleEN": "Children of age sixteen and under will not be admitted to the theatre.",
+    "MeaningEN": "not exceeding ...; not more than ...; ... and under; ... and below; ... or fewer"
 }

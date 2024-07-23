@@ -1,8 +1,8 @@
 {
-	"WordJA": "乗り換える",
-	"Kana": "のりかえる",
-	"PartOfSpeech": "Ichidan verb, Transitive verb",
-	"ExampleJA": "東京駅で列車を乗り換えなさい",
-	"ExampleEN": "Change trains at Tokyo Station.",
-	"MeaningEN": "to transfer (trains); to change (bus, train)"
+    "WordJA": "乗り換える",
+    "Kana": "のりかえる",
+    "PartOfSpeech": "Ichidan verb, Transitive verb",
+    "ExampleJA": "東京駅で列車を乗り換えなさい",
+    "ExampleEN": "Change trains at Tokyo Station.",
+    "MeaningEN": "to transfer (trains); to change (bus, train)"
 }
