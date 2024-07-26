@@ -4,8 +4,8 @@ from pathlib import Path
 
 import time
 
-WORD_LIST_PATH = Path('./word-lists/n4_words.json')
-OUT_PATH = Path('./cards/n4-vocab')
+WORD_LIST_PATH = Path('./word-lists/n5_words.json')
+OUT_PATH = Path('./cards/n5-vocab')
 
 with WORD_LIST_PATH.open('r', encoding='utf-8') as n4_words_file:
     n4_words = json.load(n4_words_file)
