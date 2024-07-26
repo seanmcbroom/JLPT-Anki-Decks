@@ -106,7 +106,6 @@ my_model = genanki.Model(
 )
 
 def add_cards_from_directory(directory):
-    # Iterate through JSON files and add notes to the deck
     for filename in os.listdir(directory):
         if filename.endswith('.json'):
             file_path = os.path.join(directory, filename)
@@ -128,5 +127,4 @@ def add_cards_from_directory(directory):
 
 add_cards_from_directory('./cards/n4-vocab')
 
-# Save the deck to a file
-genanki.Package(my_deck).write_to_file('./output/Japanese_N4_Vocab.apkg')
+genanki.Package(my_deck).write_to_file(f'./output/{DECK_NAME}.apkg')

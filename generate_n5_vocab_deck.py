@@ -2,7 +2,7 @@ import json
 import os
 import genanki
 
-DECK_NAME = "JLPT N4 Vocab"
+DECK_NAME = "JLPT N5 Vocab"
 DECK_VERSION = "v1.0"
 
 # Create a new deck
