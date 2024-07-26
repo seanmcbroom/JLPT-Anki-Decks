@@ -28,30 +28,33 @@ my_model = genanki.Model(
         {
             'name': 'Card 1',
             'qfmt': '''
-                <p class="furigana">{{Kana}}</p>
-                <p class="main-content">
+                <p class="word">
                     {{WordJA}}
                 </p>
                 <p class="pos grey">{{PartOfSpeech}}</p>
-                <br>
-                {{#ExampleJA}}{{#ExampleEN}}
-                <p id="examples" class="flex-column">
-                    <p>Example:</p>
-                    <p>{{ExampleJA}}</p>
-                    <p class="hide">{{ExampleEN}}</p>
-                </p>
-                {{/ExampleEN}}{{/ExampleJA}}
             ''',
             'afmt': '''
                 <p class="furigana">{{Kana}}</p>
-                <p class="main-content">
+                <p class="word">
                     {{WordJA}}
                 </p>
                 <p class="pos grey">{{PartOfSpeech}}</p>
+                
                 <br>
-                <p>meaning: {{MeaningEN}}</p>
+                
+                <p>{{MeaningEN}}</p>
+                <hr id=answer>
+                
                 <br>
-                <p class="grey" style="font-size: 15px;">Deck Version: {{Version}} ~ <a href='https://jisho.org/search/{{Kana}}'>jisho</a>, <a href="https://www.google.com/search?q='{{WordJA}}'">google</a></p>
+                
+                {{#ExampleJA}}{{#ExampleEN}}
+                <p>example:</p>
+                <p>{{ExampleJA}}</p>
+                <p class="hide">{{ExampleEN}}</p>
+                <br>
+                {{/ExampleEN}}{{/ExampleJA}}
+                
+                <p class="footer-links grey">deck version: {{Version}} ~ <a href='https://jisho.org/search/{{Kana}}'>jisho</a>, <a href="https://www.google.com/search?q='{{WordJA}}'">google</a></p>
             '''
         }
     ],
@@ -82,7 +85,7 @@ my_model = genanki.Model(
             gap: 5px;
         }
 
-        .main-content {
+        .word {
             font-size: 35px;
         }
 					
@@ -93,15 +96,9 @@ my_model = genanki.Model(
         .furigana {
             font-size: 20px;
         }
-
-        .hide {
-            background-color: #111;
-            color: #111;
-            padding: 5px;
-        }
-
-        .hide:hover {
-            color: white;
+        
+        .footer-links {
+            font-size: 15px;
         }
     '''
 )
@@ -126,7 +123,7 @@ def add_cards_from_directory(directory):
                 )
                 my_deck.add_note(note)
 
-add_cards_from_directory('./cards/n4-vocab')
+add_cards_from_directory('./cards/n5-vocab')
 
 # Save the deck to a file
 genanki.Package(my_deck).write_to_file(f'./output/{DECK_NAME}.apkg')
